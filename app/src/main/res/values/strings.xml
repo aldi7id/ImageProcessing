@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">File Processing</string>
+    <string name="image_desc">Image Desc</string>
+    <string name="image_from_gallery">IMAGE FROM GALLERY</string>
+    <string name="image_from_camera">IMAGE FROM CAMERA</string>
+    <string name="image_from_library">IMAGE FROM LIBRARY</string>
+</resources>
